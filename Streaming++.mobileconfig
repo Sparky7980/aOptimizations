@@ -7,8 +7,6 @@
 			<key>default</key>
 			<string>You Will Lose The App</string>
 		</dict>
-		<key>HasRemovalPasscode</key>
-		<true />
 		<key>PayloadContent</key>
 		<array>
 			<dict>
@@ -30,20 +28,6 @@
 				<integer>1</integer>
 				<key>URL</key>
 				<string>theTVapp.to</string>
-			</dict>
-			<dict>
-				<key>PayloadDisplayName</key>
-				<string>Profile Removal</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.profileRemovalPassword.eabe6272-b333-44e5-b30e-f6927ac27bcb</string>
-				<key>PayloadType</key>
-				<string>com.apple.profileRemovalPassword</string>
-				<key>PayloadUUID</key>
-				<string>eabe6272-b333-44e5-b30e-f6927ac27bcb</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>RemovalPassword</key>
-				<string>AydinTheGreat</string>
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
